@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_svg/flutter_svg.dart';
-import 'package:flutter_task_1/widgets/bottm_navbar.dart';
+import 'package:flutter_task_1/widgets/bottom_navbar.dart';
 import 'package:flutter_task_1/widgets/chips.dart';
 import 'package:flutter_task_1/widgets/vegetables_list.dart';
 
